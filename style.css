@@ -1,0 +1,29 @@
+.nav-link{
+  color: #fff;
+}
+
+.navbar-nav .nav-link.active,
+.nav-link:focus,.nav-link:hover{
+  background-color: #fff;
+}
+
+.nav-link.active:hover{
+  background-color: #adb5bd;
+}
+
+.second-section{
+  background-color: #e9ecef;
+}
+
+.container .fa{
+  font-size: 200px;
+}
+
+.icons .fa{
+  font-size: 25px;
+  color: #868e96;
+}
+
+.icons .fa:hover{
+  color: #dee2e6;
+}
